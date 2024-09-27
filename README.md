@@ -10,7 +10,7 @@ Ma solution pour le premier TME du module Programmation Réseaux à sorbonne uni
 * The client sends a message to the server and waits for a response.
 * If no response is received, the client retries with an increased timeout.
 * Once the client receives a response, it calculates the RTT (Round-Trip Time).
-* The client allows multiple requests and calculates the average RTT.
+* The client allows multiple requests and calculates the average RTT..
   
 ***Why No Threading?***
 Threading is not needed for this UDP server because:
