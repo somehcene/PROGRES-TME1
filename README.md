@@ -3,7 +3,7 @@ Ma solution pour le premier TME du module Programmation Réseaux à sorbonne uni
 
 ## EXERCICE 1 Client/Server UDP
 ### Server (ServerUDP exo1.py)
-*The server listens on port 1234 for incoming UDP messages.
+* The server listens on port 1234 for incoming UDP messages.
 *When a message is received from a client, it responds with a confirmation.
 *The server has a random chance (50%) of not responding, simulating the unreliable nature of UDP.
 ### Client (clientUDP exo1.py)
